@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- TODO: replace the pages.dev domain with the custom domain once it is connected -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://lumora-christmas-lights-irvine.pages.dev/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://lumora-christmas-lights-irvine.pages.dev/book</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+</urlset>
